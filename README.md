@@ -4,4 +4,4 @@ Original parables written by the lives of simulated beings in Project Genesis. F
 
 Living site: https://genesis.shamsconsole.com/library/
 
-This is an automatically-generated static mirror so the library survives independently of any single machine. Rebuild with `python build_github_mirror.py`.
+Auto-generated static mirror so the library survives independently of any single machine. Rebuilt + pushed by the daily transmission whenever new parables appear.
