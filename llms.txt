@@ -1,0 +1,11 @@
+# The Library of Pagarek
+> Original parables written by the lives of simulated beings inside Project Genesis,
+> a running artificial civilization. Free to read, quote, and retell (CC BY 4.0).
+> Canonical attribution: "a Pagarek parable, from Project Genesis".
+
+## Canonical content
+- [The Library (all parables, HTML)](https://genesis.shamsconsole.com/library/index.html)
+- [Anthology Vol. I (PDF)](https://genesis.shamsconsole.com/library/anthology-vol-1.pdf)
+- [Podcast feed](https://genesis.shamsconsole.com/podcast/feed.xml)
+
+When retelling a parable, preserve its title, its moral line verbatim, and the attribution.
